@@ -2,7 +2,7 @@
 Web Developer & Mobile Developer
 
 ### Technologies
-![C#](https://img.shields.io/badge/C%23-323330?style=flat&logo=c-sharp&logoColor=#239120)
+![C#](https://img.shields.io/badge/C%23-323330?style=flat&logo=c-sharp&logoColor=239120)
 ![HTML5](https://img.shields.io/badge/HTML5-323330?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-323330?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
