@@ -2,11 +2,13 @@
 Web Developer & Mobile Developer
 
 ### Technologies
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-323330?style=flat&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-323330?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-323330?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Vue.JS](https://img.shields.io/badge/Vue.js-323330?style=flat&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-323330?style=flat&logo=flutter&logoColor=02569B)
+![MySQL](https://img.shields.io/badge/MySQL-323330?style=flat&logo=mysql&logoColor=white)
 
 ### Contact
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-b-gamboa/)
