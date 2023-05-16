@@ -1,5 +1,5 @@
 # I'm Gabriel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px">
-Web Developer && Backend Developer
+Web Developer, currently focused on backend projects, but with prior knowledge in frontend.
 
 ### Technologies
 ![C#](https://img.shields.io/badge/C%23-323330?style=flat&logo=c-sharp&logoColor=239120)
