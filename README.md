@@ -49,6 +49,10 @@
   <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" height="40" alt="fastify logo" />
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/nestjs.png" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+  <img width="12" />
+  <img src="https://vitest.dev/logo-shadow.svg" height="40" alt="vitest logo" />
 </div>
 ###
 
