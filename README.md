@@ -44,11 +44,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" height="40" alt="express logo" />
+  <img src="https://img.icons8.com/fluency/48/express-js.png" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" height="40" alt="fastify logo" />
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/nestjs.png" height="40" alt="nestjs logo" />
 </div>
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
