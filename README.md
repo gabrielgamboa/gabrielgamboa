@@ -1,6 +1,7 @@
-<div align="center">
-  <img height="150" src="https://instagram.fcpq4-1.fna.fbcdn.net/v/t51.2885-19/452231858_491970763388247_7394795275358942814_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcpq4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-5gIgD5V4eIQ7kNvgFSswnj&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYA73DpBzpmBvYepBUCkEoYiZXcO8H_tohWdP23WYN6nOQ&oe=66C4643A&_nc_sid=8f1549"  />
-</div>
+<h1 align="center">Hi, welcome to my profile! 👋</h1>
+
+###
+
 
 ###
 
@@ -14,10 +15,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrielgamboa.gabrielgamboa" />
 </div>
-
-###
-
-<h1 align="center">Hi, welcome to my profile! 👋</h1>
 
 ###
 
