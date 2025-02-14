@@ -2,16 +2,6 @@
 
 ###
 
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" onclick="window.open('https://www.linkedin.com/in/gabriel-b-gamboa/');"/>
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" onclick="window.open('https://github.com/gabrielgamboa');"/>
-</div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrielgamboa.gabrielgamboa" />
 </div>
@@ -53,13 +43,17 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">📞 Contact</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgamboa&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-b-gamboa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/seu_instagram/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 ###
