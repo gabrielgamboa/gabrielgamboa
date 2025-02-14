@@ -1,4 +1,4 @@
-<h1 align="center">Hi, welcome to my profile! 👋</h1>
+<h1 align="center">Hi, What's up? 👋</h1>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Gabriel Gambôa from Sumaré, SP, Brazil.<br><br>- 🔭 I’m working as a backend developer at MB Labs.<br>- 📚 I'm currently learning about backend development topics such as software architecture and design patterns.<br>- ⚡ In my free time I love to play CS and Valorant, it's a passion of mine.</p>
+<p align="left">I'm Gabriel Gambôa from Sumaré, SP, Brazil.<br><br>- 🔭 I’m working as a backend developer at MB Labs.<br>- 📚 Enthusiastic about Clean Architecture and Software Architecture.<br>- ⚡ In my free time I love to play CS and Valorant, it's a passion of mine.</p>
 
 ###
 
