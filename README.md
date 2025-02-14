@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/gabriel-b-gamboa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/seu_instagram/" target="_blank">
+  <a href="https://www.instagram.com/gggamboa_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
